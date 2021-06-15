@@ -1,5 +1,5 @@
-Our program connects to flightgeer simulator and server as a server, 
-which sends it commands, and at the same time, also serve a customer receiving commmands from it, to fly the plane.
+Our program connects to "flightgear simulator" and serve as a server
+which sends commands, and at the same time, also serve as a customer receiving commmands from flightgear to fly the plane.
 The program will receive a text file and the desired commands for the flight. 
 
 The program is built as a part of a programming course at Bar-Ilan University.
