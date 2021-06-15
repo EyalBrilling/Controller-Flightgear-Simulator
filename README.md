@@ -2,7 +2,7 @@ Our program connects to "flightgear simulator" and serve as a server
 which sends commands, and at the same time, also serve as a customer receiving commmands from flightgear to fly the plane.
 The program will receive a text file and the desired commands for the flight. 
 
-The program is built as a part of a programming course at Bar-Ilan University.
+The program is built as a part of a programming course at Bar-Ilan University by Eyal and Sahar.
 
 
 How it will work?
@@ -19,4 +19,3 @@ Here are the steps:
 4. start the program with fly.txt
 5. Open the flight-geer and click Fly.
 
-https://github.com/SaharBe/AP1M1
